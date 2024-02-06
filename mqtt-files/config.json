@@ -1,0 +1,10 @@
+{
+    "wifi": {
+        "SSID": "D-link",
+        "password": "0661658250",
+        "attempts": 5,
+        "delay_in_msec": 200
+    },
+    "server": "ws://192.168.1.33:8000/",
+    "socket_delay_ms": 5
+}
